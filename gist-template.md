@@ -1,10 +1,8 @@
 # Hex Regex Tutorial!
 
-Introductory paragraph (replace this with your text)
+This assignment will demonstrate hex value 
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 In this tutorial, I will explain how to match a hex value using regular expressions. 
 
@@ -27,7 +25,7 @@ code snippet:
 
 ### Anchors
 
-This regular expression has two anchors. The first anchor is the `^` symbol. This will match the begining of a string. In this case, it will match if there is a # at the begining of the string. 
+This regular expression has two anchors. The first anchor is the `^` symbol. This matches the begining of a string. In this case, it will match if there is a # at the begining of the string. 
 
 The next anchor is the `$` symbol. This will match the end of a string. In this case it will match if the pattern is included from the begining to the end of the string. 
 
